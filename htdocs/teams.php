@@ -26,7 +26,7 @@
 <h2 align="center">List of Teams</h2>
 
 <form>
-    <table>
+    <table class="center">
         <tr id="marama">
             <th><a href="Marama.php">MaramaGaming</a></th>
         </tr>
